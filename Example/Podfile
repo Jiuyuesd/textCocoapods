@@ -1,0 +1,7 @@
+use_frameworks!
+target 'WPTestColor_Tests' do
+  pod 'WPTestColor', :path => '../'
+  
+  pod 'Specta'
+    pod 'Expecta'
+end
