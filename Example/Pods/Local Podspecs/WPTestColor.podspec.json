@@ -1,0 +1,22 @@
+{
+  "name": "WPTestColor",
+  "version": "0.1.0",
+  "summary": "A short description of WPTestColor.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Wei942/WPTestColor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Wei942": "897240781@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Wei942/WPTestColor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WPTestColor/Classes/**/*"
+}
